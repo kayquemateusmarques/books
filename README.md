@@ -1,2 +1,2 @@
 # books
-This repository contains studies about software development.
+This repository contains my studies, exercises, and notes on software development and technology.
