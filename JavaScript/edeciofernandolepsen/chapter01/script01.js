@@ -5,3 +5,4 @@ const num2 = Number(prompt("Enter the second number: "));
 const sum = num1 + num2;
 
 alert(`The sum is: ${sum}`)
+
