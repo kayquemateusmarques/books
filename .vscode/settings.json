@@ -1,7 +1,0 @@
-{
-    "github.copilot.chat.copilotDebugCommand.enabled": false,
-    "github.copilot.chat.tools.viewImage.enabled": false,
-    "editor.inlineSuggest.enabled": false,
-    "github.copilot.enable": { "*": false },
-    "github.copilot.nextEditSuggestions.enabled": false
-}
